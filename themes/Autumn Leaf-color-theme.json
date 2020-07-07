@@ -1,0 +1,16 @@
+{
+	"tokenColors": "./Autumn Leaf.tmTheme",
+	"colors": {
+		"editor.background": "#1F211D",
+		"editorCursor.foreground": "#F8F8F0",
+		"editor.foreground": "#D8E0CE",
+		"editorWhitespace.foreground": "#3B3A32",
+		"editor.lineHighlightBackground": "#3E3D32",
+		"editor.selectionBackground": "#49483E",
+		"statusBar.background": "#3b442a",
+		"statusBarItem.remoteBackground": "#679e00",
+		"statusBar.debuggingBackground": "#3b442a",
+		"statusBar.foreground": "#e4e6e0"
+	},
+	"name": "Autumn Leaf"
+}
