@@ -214,7 +214,7 @@
       "name": "Function call",
       "scope": "entity.name.function-call",
       "settings": {
-        "foreground": "#c8d1bd"
+        "foreground": "#A5DE50"
       }
     },
     {
@@ -255,7 +255,7 @@
       "name": "Library function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#56d8c7"
+        "foreground": "#B6DE3C"
       }
     },
     {
@@ -280,6 +280,18 @@
       "scope": "support.other.variable",
       "settings": {
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "StyleSheet Variable",
+      "scope": [
+        "variable.css",
+        "variable.scss",
+        "variable.less",
+        "variable.sass",
+      ],
+      "settings": {
+        "foreground": "#56d8c7"
       }
     },
     {
