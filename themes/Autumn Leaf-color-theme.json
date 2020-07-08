@@ -10,6 +10,7 @@
 		"statusBar.background": "#3b442a",
 		"statusBarItem.remoteBackground": "#679e00",
 		"statusBar.debuggingBackground": "#3b442a",
+		"statusBar.noFolderBackground": "#3b442a",
 		"statusBar.foreground": "#e4e6e0"
 	},
 	"name": "Autumn Leaf"

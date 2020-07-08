@@ -11,23 +11,6 @@
 	<key>settings</key>
 	<array>
 		<dict>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#1F211D</string>
-				<key>caret</key>
-				<string>#F8F8F0</string>
-				<key>foreground</key>
-				<string>#D8E0CE</string>
-				<key>invisibles</key>
-				<string>#3B3A32</string>
-				<key>lineHighlight</key>
-				<string>#3E3D32</string>
-				<key>selection</key>
-				<string>#49483E</string>
-			</dict>
-		</dict>
-		<dict>
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
@@ -91,17 +74,13 @@
 			<string>variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#E681AD</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
-			<string>keyword</string>
+			<string>keyword, keyword.operator.logical, keyword.operator.constructor</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -136,7 +115,7 @@
 			<key>name</key>
 			<string>Class name</string>
 			<key>scope</key>
-			<string>entity.name.class</string>
+			<string>entity.name.class, entity.name.module, entity.name.type, storage.identifier, support.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
