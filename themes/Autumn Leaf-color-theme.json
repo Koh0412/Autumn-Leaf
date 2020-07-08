@@ -3,7 +3,7 @@
 	"colors": {
 		"editor.background": "#1F211D",
 		"editorCursor.foreground": "#F8F8F0",
-		"editor.foreground": "#D8E0CE",
+		"editor.foreground": "#c8d1bd",
 		"editorWhitespace.foreground": "#3B3A32",
 		"editor.lineHighlightBackground": "#3E3D32",
 		"editor.selectionBackground": "#49483E",
@@ -67,7 +67,7 @@
         "meta.brace"
       ],
       "settings": {
-        "foreground": "#D8E0CE"
+        "foreground": "#c8d1bd"
       }
     },
 		{
@@ -102,7 +102,7 @@
         "variable.other.block"
       ],
       "settings": {
-        "foreground": "#D8E0CE"
+        "foreground": "#c8d1bd"
       }
     },
     {
@@ -164,7 +164,7 @@
         "variable.readwrite.other.block"
       ],
       "settings": {
-        "foreground": "#D8E0CE"
+        "foreground": "#c8d1bd"
       }
     },
     {
@@ -201,7 +201,7 @@
       "name": "Function call",
       "scope": "entity.name.function-call",
       "settings": {
-        "foreground": "#D8E0CE"
+        "foreground": "#c8d1bd"
       }
     },
     {
