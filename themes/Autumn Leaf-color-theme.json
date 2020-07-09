@@ -1,6 +1,8 @@
 {
   "name": "Autumn Leaf",
 	"colors": {
+    "focusBorder": "#69911f",
+    "foreground": "#c8d1bd",
 		"editor.background": "#1F211D",
 		"editorCursor.foreground": "#F8F8F0",
 		"editor.foreground": "#c8d1bd",
@@ -8,18 +10,34 @@
 		"editor.lineHighlightBackground": "#3E3D32",
     "editor.selectionBackground": "#49483E",
     "editorLineNumber.foreground": "#606951",
-		"statusBar.background": "#3b442a",
+    "editorGroupHeader.tabsBackground": "#262923",
+    "statusBar.background": "#3b442a",
 		"statusBarItem.remoteBackground": "#679e00",
 		"statusBar.debuggingBackground": "#3b442a",
 		"statusBar.noFolderBackground": "#3b442a",
     "statusBar.foreground": "#e4e6e0",
     "titleBar.activeBackground": "#323530",
+    "titleBar.activeForeground": "#c8d1bd",
     "sideBar.background": "#282b25",
-    "menu.background": "#191b18",
+    "sideBarSectionHeader.background": "#373b33",
     "activityBar.background": "#3b3f36",
     "activityBar.activeBorder": "#74b103",
     "activityBar.foreground": "#aec08d",
     "activityBarBadge.background": "#679e00",
+    "panel.background": "#1F211D",
+    "list.hoverBackground": "#3c4138b9",
+    "list.focusBackground": "#3c4138b9",
+    "list.activeSelectionBackground": "#535a4db9",
+    "list.inactiveSelectionBackground": "#3c4138b9",
+    "tab.activeForeground": "#dce6d1",
+    "tab.activeBackground": "#373b33",
+    "tab.inactiveBackground": "#262923",
+    "tab.border": "#181a16",
+    "badge.background": "#596444",
+    "input.border": "#525555",
+    "menu.background": "#191b18",
+    "notifications.background": "#282b25",
+    "progressBar.background": "#679e00",
     "terminal.ansiBrightYellow": "#e7db36",
     "terminal.ansiBlue": "#1f76e9",
     "terminal.ansiBrightRed": "#f33a22",
@@ -161,7 +179,6 @@
       ],
       "settings": {
         "foreground": "#2DE069",
-        "fontStyle": "italic"
       }
     },
     {
@@ -185,7 +202,6 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "foreground": "#2DE069",
-        "fontStyle": "italic"
       }
     },
     {
@@ -207,7 +223,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FD971F"
+        "foreground": "#fdaf1f"
       }
     },
     {
