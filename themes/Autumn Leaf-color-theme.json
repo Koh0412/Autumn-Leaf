@@ -122,7 +122,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#cc7fff"
+        "foreground": "#c8d1bd"
       }
     },
     {
@@ -271,7 +271,7 @@
       "name": "Library constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#56d8c7"
+        "foreground": "#c8d1bd"
       }
     },
     {
