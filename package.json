@@ -1,6 +1,7 @@
 {
     "name": "autumn-leaf",
     "displayName": "Autumn Leaf",
+    "publisher": "koh",
     "description": "this is colorTheme like Leaf of Autumn",
     "version": "0.0.1",
     "engines": {
