@@ -4,6 +4,7 @@
     "publisher": "koh",
     "description": "this is colorTheme like Leaf of Autumn",
     "version": "0.0.1",
+    "icon": "autumn-leaf.png",
     "engines": {
         "vscode": "^1.46.0"
     },
